@@ -93,3 +93,5 @@ What else is simplicity if not a bunch of other simplicities in sequence, while 
 - You should **not** deny to help Monkey **Shamanic Quest Dream**
 
 [It all About Us](https://odicforcesounds.bandcamp.com/track/it-is-all-about-us)
+
+Solipsism is false and truth at the same time, but we all live in that condition!
