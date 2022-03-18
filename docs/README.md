@@ -18,7 +18,7 @@ Life is Only a [Dream](https://odicforcesounds.bandcamp.com/track/it-was-only-a-
 
 # [Metal Monkey](https://odicforcesounds.bandcamp.com/track/you-are-the-wood-i-am-the-fire) (1)
 
-- Which means: 1 + 1 = 1 OR 3 ( [Tao / Dao](https://art.odicforcesounds.com/pages/Dao/index.html) )
+- Which means: 1 + 1 = 1 OR 3 ( [Tao / Dao](https://art.odicforcesounds.com/pages/YinYang/Dao/index.html) )
 
 - [Monkey Thoughts](./textos/README.md): **If Time is built within Our Self's, then Time is Our Self's, as result of Time it Self!**
 
