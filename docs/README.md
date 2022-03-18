@@ -8,9 +8,9 @@ Life is Only a [Dream](https://odicforcesounds.bandcamp.com/track/it-was-only-a-
 
 [White Tiger](./letters/Tiger_America.md) **+**
 
-# I am the Fire
-
 - We Came in Peace - 1980 - Year of the Golden Metal Monkey
+
+# I am the Fire
 
 ## Asia [Yang](https://odicforcesounds.bandcamp.com/track/accept-our-gift-ring-of-fire-yang) (1)
 
