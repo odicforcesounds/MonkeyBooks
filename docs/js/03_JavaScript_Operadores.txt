@@ -1,0 +1,21 @@
+OPERADORES
+
+Um operador é um símbolo matemático que produz um resultado baseado em dois valores ( variaveis ). 
+
+Alguns destes operadores são: 
+
+1. Adição: Somar números ( 4+4 ) OU juntar texto ( 'olá ' + ' mundo ' ) 
+2. Subtração: Subtrair números ( 4-2 ) 
+3. Multiplicação: Multiplicar números ( 4*2 ) 
+4. Divisão: Dividir números: ( 40/2 ) 
+5. Associar valor à variavel: ( var a = 'a' ) OU ( var um = 1 ) 
+6. Verificar se valores são iguais: ( let a = 'asd'; a === 'qwd' ) -> true/false
+7. Declaração da Negação: ( let a = 3; !(a === 3); -> true/false
+
+Nota: Quando tentamos somar números que estão entre-aspas, recebemos um resultado diferente ao esperado.
+
+eg. '10' + '10' -> 1010
+
+A isto chama-se "concatenar" / "juntar" variaveis que estão em formato de "texto" / "strings" 
+
+

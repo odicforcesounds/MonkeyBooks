@@ -1,0 +1,28 @@
+EVENTOS
+
+Sites com interactividade em tempo-real, usam eventos do javascript que são accionados sempre que existe uma interacção
+do utilizador com esse elemento da página. O evento mais comum é o 'click' do rato. 
+
+Exemplo: 
+
+HTML: 
+
+<doctype html>
+<html>
+</html>
+
+JavaScript:
+
+document.querySelector('html').addEventListener('click', function() {
+  alert('this page is empty') 
+}
+
+// OU 
+
+let emptyPage = document.querySelector('html')
+emptyPage.addEventListener('click', function() {
+  alert('this page is empty') 
+}
+
+
+

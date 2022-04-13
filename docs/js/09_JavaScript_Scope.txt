@@ -1,0 +1,52 @@
+SCOPE
+
+Na associação de permissão de leitura das variaveis, existe este termo chamado "scope" que foca a problemática que está
+em volta das permissões de leitura das variaveis declaradas no documento, que podem ser "globais" ou "locais". 
+
+As variaveis globais, podem ser acedidas a partir de qualquer função do documento, salvo quando a variavel foi declarada
+com a palavra 'let' ou 'const'. 
+
+eg. JAVASCRIPT: 
+
+// index.js
+
+if(true) {
+  var x = 5
+}
+
+console.log(x) // 5
+
+// index2.js
+
+if(true) {
+  let y = 10; 
+}
+
+console.log(y) // ReferenceError: y is not defined
+
+-----------------------------------------------------------------
+
+VARIAVEIS LOCAIS: 
+
+let go = function() {
+  var x = 10; 
+  var y = 20; 
+  console.log(x+y); 
+}
+
+console.log(x) // ReferenceError: x is not defined 
+
+-----------------------------------------------------------------
+
+VARIAVEIS GLOBAIS
+
+var x = 10; 
+
+const soma = function() {
+  console.log(x + 19)
+}
+
+soma(); // 29
+
+
+
