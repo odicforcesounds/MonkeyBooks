@@ -1,6 +1,6 @@
 Life is Only a [Dream](https://odicforcesounds.bandcamp.com/track/it-was-only-a-dream)
 
-- Welcome to the Era of Fire - 2016 - Year of the Red Fire Monkey
+- Welcome to the Era of Fire - 2016 - Year of the Red Fire Monkey ( E ) 
 
 # You are the Wood
 
@@ -8,7 +8,7 @@ Life is Only a [Dream](https://odicforcesounds.bandcamp.com/track/it-was-only-a-
 
 [White Tiger](./letters/Tiger_America.md) **+**
 
-- We Came in Peace - 1980 - Year of the Golden Metal Monkey
+- We Came in Peace - 1980 - Year of the Golden Metal Monkey ( m ) 
 
 # I am the Fire
 
@@ -18,7 +18,7 @@ Life is Only a [Dream](https://odicforcesounds.bandcamp.com/track/it-was-only-a-
 
 # [Metal Monkey](https://odicforcesounds.bandcamp.com/track/you-are-the-wood-i-am-the-fire) (1)
 
-- Which means: 1 + 1 = 1 OR 3 ( [Tao / Dao](https://art.odicforcesounds.com/pages/YinYang/Dao/index.html) )
+- Which means: 1 + 1 = 1 OR 3 ( [Tao / Dao](https://art.odicforcesounds.com/pages/YinYang/Dao/index.html) ) ( c2 ) 
 
 - [Monkey Thoughts](./textos/README.md): **If Time is built within Our Self's, then Time is Our Self's, as result of Time it Self!**
 
