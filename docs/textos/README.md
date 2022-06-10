@@ -55,6 +55,14 @@ Yin(1) | Yang(0)
 [Rir e Voltar a Rir](./pt/Rir.md) | [Curiosidades da Vida](./pt/Curiosidade_Vida.md)
 [Ordem e Progresso](./pt/Ordem_Progresso.md) | [Uma Carta pela Paz Mundial](./pt/Carta_Paz_Mundial.md)
 [A Ofensa](./pt/A_Ofensa.md) | [Mais de 70 Causas Crime](./pt/70_Causas_Crime.md)
-[Eternamente Ignorantes](./pt/Eternamente_Ignorantes.md) | 
+[Eternamente Ignorantes](./pt/Eternamente_Ignorantes.md)  | [Aproveita o Momento](./pt/Aproveita_o_Momento.md) 
+
+[A Problemática da Sociedade](./pt/A_Problematica_da_Sociedade.md) | [A Necessidade de 
+Improvisar](./pt/A_necessidade_de_Improvisar)
+
+[Aprender e Ensinar a Viver e a Sonhar](./pt/Aprender_Ensinar_Viver_Sonhar.md) | [Mais Teorias do
+Pensamento](./pt/Mais_teorias_do_pensamento.md) 
+
+[Qual a Melhor Escolha?](./pt/Qual_a_Melhor_Escolha.md) | [Uma Teoria Cientifica](./pt/Uma_Teoria_Cientifica.md) 
 
 Clica [aqui](../README.md) para voltar para a página principal.
