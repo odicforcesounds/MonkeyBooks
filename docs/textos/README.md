@@ -59,6 +59,6 @@ O lado mórbido e horrendo desta vida oferece algo de bom, sendo que o lado belo
 | [A Problemática da Sociedade](./pt/A_Problematica_da_Sociedade.md)                         | [A Necessidade de Improvisar](./pt/A_necessidade_de_Improvisar)        |
 | [Aprender e Ensinar a Viver e a Sonhar](./pt/Aprender_Ensinar_Viver_Sonhar.md)             | [Mais Teorias do Pensamento](./pt/Mais_teorias_do_pensamento.md)       |
 | [Qual a Melhor Escolha?](./pt/Qual_a_Melhor_Escolha.md)                                    | [Uma Teoria Cientifica](./pt/Uma_Teoria_Cientifica.md)                 |
-| [O Lado Positivo da Xenofobia Cultural](./pt/O_Lado_Positivo.md)                           |                                                                        |
+| [O Lado Positivo da Xenofobia Cultural](./pt/O_Lado_Positivo.md)                           | [Consumo Energético](./pt/Consumo_Energetico.md)                       |
 
 Clica [aqui](../README.md) para voltar para a página principal.
