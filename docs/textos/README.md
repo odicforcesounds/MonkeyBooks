@@ -62,5 +62,7 @@ O lado mórbido e horrendo desta vida oferece algo de bom, sendo que o lado belo
 | [Qual a Melhor Escolha?](./pt/Qual_a_Melhor_Escolha.md)                                    | [Uma Teoria Cientifica](./pt/Uma_Teoria_Cientifica.md)                 |
 | [O Lado Positivo da Xenofobia Cultural](./pt/O_Lado_Positivo.md)                           | [Consumo Energético](./pt/Consumo_Energetico.md)                       |
 | [Uma Disciplina Infantil](./pt/Uma_Disciplina_Infantil.md) | [Viva](./pt/Viva.md) | 
+| [Desafio Mundial](./pt/dn/Intro.md) | [O Quarto Macaco Budista](./pt/yt/README.md)|
+
 
 Clica [aqui](../README.md) para voltar para a página principal.
