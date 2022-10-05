@@ -1,4 +1,4 @@
-# My Mission, You Mission, Our Mission ( we are one )
+# My Mission, Your Mission, Our Mission ( we are one )
 
 I like the idea of God in the sense of being absolute, therefor my choice was Taoism. 
 
