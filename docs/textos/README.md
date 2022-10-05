@@ -11,6 +11,7 @@ Em Actualização ( Lista incompleta )
 | [True Politics](./en/True_Politics.md)           | [Turn a Blind Eye Tribute](./en/Turn_Eyes_Blind.md)              |
 | [What we Teach](./en/What_We_Teadch.md)          | [Yin(1) + Yang(1) = Tao(1)](./en/Yin_Yang_Tao.md)                |
 | [Mastering the Self](./en/Mastering_the_Self.md) | [The Value of an Expression](./en/The_Value_of_an_Expression.md) |
+| [My Mission, You Mission, Our Mission](./en/Mission.md) | | 
 
 ## Lista de textos em Português
 
