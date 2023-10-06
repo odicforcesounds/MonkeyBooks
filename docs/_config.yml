@@ -1,1 +1,4 @@
-theme: jekyll-theme-hacker
+remote_theme: pages-themes/hacker@v0.2.0
+plugins_dir: jekyll-remote-hacker
+title: Monkey Book
+description: I Love to write some creative and subjective content to inspire me or others, to become something better in Time.

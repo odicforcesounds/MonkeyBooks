@@ -1,0 +1,43 @@
+## Vim command line popular options 
+# vim terminal 
+# :terminal -> live-server -> start local http server 
+# ctrl+w+w -> change prompt to file and open new terminal 
+# :terminal -> Use this terminal to commit changes 
+# ctrl+w+w -> change prompt to file and open new terminal 
+# :tabNew -> ctrl+t to open new tab with empty file 
+
+## Tabs 
+# use alt+direction-keys to move between tabs 
+
+## Vim Explorer helper
+# Ctrl+o -> Open Vim explorer 
+# use t to open file in new tab
+# use o to open file in a top-side-window-split
+# use p to open file in a botton-side-window-split 
+# use f to open file in current buffer 
+# use n to create, rename or delete files or folders 
+
+## Git options inside vim
+# :Git option ( use tab to select ) 
+# :Tig 
+# :Tig option ( use tab to select )
+
+## Calendar and todos  
+# :Calendar 
+# use E to edit and add Events 
+# use A to add todos
+
+## Splits manipulation 
+# use Ctrl+e to change splits size. 
+# use hjkl to change them. 
+# Press enter to apply. 
+
+## Bookmarks  
+# :BookmarkAnnotate to add note about line in code
+# example: definition can only be seen within vim 
+
+## wiki 
+# :wiki 
+
+## w3m web browser 
+# :w3m 
