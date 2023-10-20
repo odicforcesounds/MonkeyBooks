@@ -6,7 +6,7 @@ pkill -x ssh-agent
 sleep 1
 eval $(ssh-agent)
 sleep 1 
-ssh-add ~/.ssh/osounds
+ssh-add ~/.ssh/omrsa
 sleep 1
 git push git@github.com:odicforcesounds/MonkeyBooks
 clear
