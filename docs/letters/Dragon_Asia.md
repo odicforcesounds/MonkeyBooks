@@ -2,8 +2,6 @@
 
 Yellow, Dear Dragon!
 
-You don't kill me, because You shall not!
-
 You Love me, because You shall do!
 
 You need to Dream, You need to be of control of everything.

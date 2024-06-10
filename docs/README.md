@@ -37,45 +37,45 @@ Then we split the problem into several pieces..
 
 What else is simplicity if not a bunch of other simplicities in sequence, while all of them represent the complexity it self, which is complex if you wish to understand!
 
-- Monkey is here for [Change](https://odicforcesounds.bandcamp.com/track/we-are-here-for-change)
-- Monkey Can [Teach](https://odicforcesounds.bandcamp.com/track/crafting-new-generations) if You Wish
-- Monkey want to [Make Business](https://odicforcesounds.bandcamp.com/track/lets-make-business)
-- Monkey brings [Fire](https://odicforcesounds.bandcamp.com/track/we-bring-fire-the-magic-of-fantasy)
-- Monkey wish to [Care](https://odicforcesounds.bandcamp.com/track/care-us-and-we-will-care-you)
-- Monkey is **not** the [King](https://odicforcesounds.bandcamp.com/track/sun-wukong-the-Monkey-king) of the Jungle
-- Monkey Wish to have [Fun](https://odicforcesounds.bandcamp.com/track/dont-take-us-seriously-we-are-having-fun)!
-- Monkey want to [Play](https://odicforcesounds.bandcamp.com/track/well-played)
+- Monkey is here for [Change](https://art.odicforcesounds.com/pages/Data/Audio/Galactic_Signature/tracks/02_We_Are_Here_for_Change/index.html)
+- Monkey Can [Teach](https://art.odicforcesounds.com/pages/Data/Audio/Shamanic_Quest_Dream/tracks/11_Crafting_new_Generations/index.html) if You Wish
+- Monkey want to [Make Business](https://art.odicforcesounds.com/pages/Data/Audio/Shamanic_Quest_Dream/tracks/04_Lets_make_Business/index.html)
+- Monkey brings [Fire](https://art.odicforcesounds.com/pages/Data/Audio/Shamanic_Quest_Dream/tracks/02_We_Bring_Fire/index.html)
+- Monkey wish to [Care](https://art.odicforcesounds.com/pages/Data/Audio/The_Unpredictable_Change/tracks/06_Care_us_and_we_will_care_you/index.html)
+- Monkey is **not** the [King](https://art.odicforcesounds.com/pages/OscarFM/index.html) of the Jungle
+- Monkey Wish to have [Fun](https://art.odicforcesounds.com/pages/Data/Audio/The_Long_Road/tracks/04_Dont_Take_us_Seriously/index.html)!
+- Monkey want to [Play](https://art.odicforcesounds.com/pages/Data/Audio/Signals_of_Time/tracks/06_Well_Played/index.html)
 - Monkey Like to [Write](./MANIFEST.md) **bla bla bla**
-- Monkey Like [Music](https://odicforcesounds.bandcamp.com/track/piano-words)
-- Monkey is [Funky](https://odicforcesounds.bandcamp.com/track/accurate-fingers-and-funky-orgasms)
-- Monkey is [Naughty](https://odicforcesounds.bandcamp.com/track/bruce-lee-advice-and-the-naughty-challenge)
-- Monkey ask an [Advice](https://odicforcesounds.bandcamp.com/track/ask-an-advice-and-you-shall-rise)
-- Monkey is **not** God ( No Imposition of Monkey [Will](https://odicforcesounds.bandcamp.com/track/the-possession-of-will) )
+- Monkey Like [Music](https://art.odicforcesounds.com/pages/Data/Audio/Shamanic_Quest_Dream/tracks/22_Do_Music/index.html)
+- Monkey is [Funky](https://art.odicforcesounds.com/pages/Data/Audio/Only_Tributes/tracks/14_Funky/index.html)
+- Monkey is [Naughty](https://art.odicforcesounds.com/pages/Data/Audio/Only_Tributes/tracks/03_Bruce_Lee/index.html)
+- Monkey ask an [Advice](https://art.odicforcesounds.com/pages/Data/Audio/Galactic_Signature/tracks/05_Ask_an_Advice/index.html)
+- Monkey is **not** God ( No Imposition of Monkey [Will]() )
 - Monkey teaching is **not** violent
-- Monkey like [Peace](https://odicforcesounds.bandcamp.com/track/we-came-in-peace-trance-zone)
-- Monkey is Spiritual ( [Show Monkey some Respect](https://odicforcesounds.bandcamp.com/track/show-us-some-respect-warning) )
-- Monkey Compile content to explain the [Digital](https://odicforcesounds.bandcamp.com/track/digital-perspective) way
-  - Use your [Brain](https://odicforcesounds.bandcamp.com/track/brain-chilout)
+- Monkey like [Peace](https://art.odicforcesounds.com/pages/Data/Audio/Emotional_Signals/tracks/01_We_Came_in_Peace/index.html)
+- Monkey is Spiritual ( [Show Monkey some Respect](https://art.odicforcesounds.com/pages/Data/Audio/Eternal_Delay/tracks/04_Show_us_some_Respect_Warning/index.html) )
+- Monkey Compile content to explain the [Digital](https://art.odicforcesounds.com/pages/Data/Audio/Path_Of_Shields/tracks/14_Digital_Perspective/index.html) way
+  - Use your [Brain](https://art.odicforcesounds.com/pages/Data/Audio/Shamanic_Quest_Dream/tracks/18_Brain_Chilout/index.html)
 - Monkey cannot do it alone ( not good for motivation )
 - Monkey ask if [Solution](./World-Cleaner.md) is necessary ( Monkey is good not stupid )
-- Monkey wish to [Educate](https://odicforcesounds.bandcamp.com/track/genius-monkey-style) only!
+- Monkey wish to [Educate](https://art.odicforcesounds.com/pages/Data/Audio/Signals_of_Time/tracks/08_Genius_Monkey_Style/index.html) only!
 - Monkey understand the Brain - Monkey Can help
-  - Monkey [Style](https://odicforcesounds.bandcamp.com/track/dark-warrior): Provocative or Fun?
+  - Monkey [Style](https://art.odicforcesounds.com/pages/Data/Audio/Shamanic_Quest_Dream/tracks/29_Style/index.html): Offensive or Fun?
   - Monkey knows:
-    - if brain is fun, [Monkey](https://odicforcesounds.bandcamp.com/track/set-us-free) is fun
-    - if brain is not fun, [Monkey](https://odicforcesounds.bandcamp.com/track/fire-in-my-eyes-metal-in-my-soul) is not fun
+    - if brain is fun, [Monkey](https://art.odicforcesounds.com/pages/Data/Audio/Shamanic_Quest_Dream/tracks/12_Set_us_Free/index.html) is fun
+    - if brain is not fun, [Monkey](https://art.odicforcesounds.com/pages/Data/Audio/Path_Of_Shields/tracks/05_Fire_Eyes_Metal_Soul/index.html) is not fun
 - Monkey Thoughts: "Always teaching about simplicity"
-  - :> You can create [Everything](https://odicforcesounds.bandcamp.com/track/absolute-everything-and-everyone) you focus in
+  - :> You can create [Everything](https://art.odicforcesounds.com/pages/Data/Audio/Shamanic_Quest_Dream/tracks/27_Absolute/index.html) you focus in
   - if something is bad and you don't like it, better to focus in something else ( don't let your dream go away )
 - You are included in Monkey [Eternal License](https://art.odicforcesounds.com/pages/License/index.html) !
   - "Numeric Expressions that represent value..."
   - The value is not in the representation of the value it self, but in the relation of what else make the self.
-  - **[DEEDS - PATH TO PARADISE](https://odicforcesounds.bandcamp.com/track/deeds-path-to-paradise)**
-  - Monkey **Challenge** is not bad but can be [Wrong](https://odicforcesounds.bandcamp.com/track/not-bad-wrong)
-  - Monkey knows the difference [Between](https://odicforcesounds.bandcamp.com/track/between-us-image-and-sound) right or wrong comes from intentions!
+  - **[DEEDS - PATH TO PARADISE](https://art.odicforcesounds.com/pages/Data/Audio/Shamanic_Quest_Dream/tracks/13_Deeds_Path_to_Paradise/index.html)**
+  - Monkey **Challenge** is not bad but can be [Wrong](https://art.odicforcesounds.com/pages/Data/Audio/Noise_Frequency/tracks/04_Not_Bad_Wrong/index.html)
+  - Monkey knows the difference [Between](https://art.odicforcesounds.com/pages/Data/Audio/Noise_Frequency/tracks/02_Between_Us_Image_and_Sound/index.html) right or wrong comes from intentions!
   - Monkey want to show you [Something](https://odicforcesounds.bandcamp.com/track/i-want-to-show-you-something)
   - Monkey **Challenge** [target](https://odicforcesounds.bandcamp.com/track/v-euclidean-space-3) World Wide Brands
-  - [World Wide Brands](https://odicforcesounds.bandcamp.com/track/mission-world-wide-target) don't know Monkey is here, then Monkey found Awesome [Fake](https://github.com/odicforcesounds/fakeSolutions) data.
+  - [World Wide Brands](https://odicforcesounds.bandcamp.com/track/mission-world-wide-target) don't know Monkey is here, then Monkey found Awesome Fake data to test. 
   - If Monkey dream is an [Illusion](https://odicforcesounds.bandcamp.com/track/myth-illusion-memories), then can become real. What is Your Will?
 
 # Monkey Ask [Dogs and Cats](https://odicforcesounds.bandcamp.com/track/dogs-like-to-dance-cats-like-to-watch) Help
@@ -83,7 +83,7 @@ What else is simplicity if not a bunch of other simplicities in sequence, while 
 ## (if you feel it in yourself) as well
 
 - No parties for them, is only to code a better world for both
-- Looking for Cats [Boom](https://odicforcesounds.bandcamp.com/track/boom-cat) CodeCat JS Ninjas ( Monkey always care about them )
+- Looking for Cats [Boom](https://art.odicforcesounds.com/pages/YinYang/BoomCat/index.html) CodeCat JS Ninjas ( Monkey always care about them )
 - Looking for Dogs CodeDog JS Ninjas ( Monkey always care about them )
 - Looking for [Dragons](https://soundcloud.com/odicforcesounds-channel/the-dragon) CodeDragon JS Ninjas ( Monkey Time Warrior Friends )
 - Looking for [Wolfs](https://odicforcesounds.bandcamp.com/track/walking-with-the-river) CodeWolf JS Ninjas ( Monkey Supporter Friends )
