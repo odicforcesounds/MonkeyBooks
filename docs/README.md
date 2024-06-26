@@ -73,26 +73,26 @@ What else is simplicity if not a bunch of other simplicities in sequence, while 
   - **[DEEDS - PATH TO PARADISE](https://art.odicforcesounds.com/pages/Data/Audio/Shamanic_Quest_Dream/tracks/13_Deeds_Path_to_Paradise/index.html)**
   - Monkey **Challenge** is not bad but can be [Wrong](https://art.odicforcesounds.com/pages/Data/Audio/Noise_Frequency/tracks/04_Not_Bad_Wrong/index.html)
   - Monkey knows the difference [Between](https://art.odicforcesounds.com/pages/Data/Audio/Noise_Frequency/tracks/02_Between_Us_Image_and_Sound/index.html) right or wrong comes from intentions!
-  - Monkey want to show you [Something](https://odicforcesounds.bandcamp.com/track/i-want-to-show-you-something)
-  - Monkey **Challenge** [target](https://odicforcesounds.bandcamp.com/track/v-euclidean-space-3) World Wide Brands
-  - [World Wide Brands](https://odicforcesounds.bandcamp.com/track/mission-world-wide-target) don't know Monkey is here, then Monkey found Awesome Fake data to test. 
-  - If Monkey dream is an [Illusion](https://odicforcesounds.bandcamp.com/track/myth-illusion-memories), then can become real. What is Your Will?
+  - Monkey want to show you [Something](https://art.odicforcesounds.com/pages/Data/Audio/The_Unpredictable_Change/tracks/03_Show_You_Something/index.html)
+  - Monkey **Challenge** [target](https://art.odicforcesounds.com/pages/Data/Audio/Only_Tributes/tracks/08_V_Euclidean_Space/index.html) World Wide Brands
+  - [World Wide Brands](https://art.odicforcesounds.com/pages/Data/Audio/The_Unpredictable_Change/tracks/08_Mission_World_wide_Target/index.html) don't know Monkey is here, then Monkey found Awesome Fake data to test. 
+  - If Monkey dream is an [Illusion](https://art.odicforcesounds.com/pages/Data/Audio/Path_Of_Shields/tracks/10_Myth_illusion_Memories/index.html), then can become real. What is Your Will?
 
-# Monkey Ask [Dogs and Cats](https://odicforcesounds.bandcamp.com/track/dogs-like-to-dance-cats-like-to-watch) Help
+# Monkey Ask [Dogs and Cats](https://art.odicforcesounds.com/pages/Data/Audio/Only_Tributes/tracks/01_Dogs_Like_to_Dance/index.html) Help
 
 ## (if you feel it in yourself) as well
 
 - No parties for them, is only to code a better world for both
 - Looking for Cats [Boom](https://art.odicforcesounds.com/pages/YinYang/BoomCat/index.html) CodeCat JS Ninjas ( Monkey always care about them )
 - Looking for Dogs CodeDog JS Ninjas ( Monkey always care about them )
-- Looking for [Dragons](https://soundcloud.com/odicforcesounds-channel/the-dragon) CodeDragon JS Ninjas ( Monkey Time Warrior Friends )
+- Looking for [Dragons](https://art.odicforcesounds.com/pages/Data/Audio/Path_Of_Shields/tracks/25_The_Dragon/) CodeDragon JS Ninjas ( Monkey Time Warrior Friends )
 - Looking for [Wolfs](https://odicforcesounds.bandcamp.com/track/walking-with-the-river) CodeWolf JS Ninjas ( Monkey Supporter Friends )
 - Looking for Rats CodeRat JS Ninjas ( Monkey [Time-Conditional](https://art.odicforcesounds.com/pages/YinYang/YY/index.html) Friends )
 - Looking for Serpents CodeSerpent JS Ninjas ( Monkey Secret Friends )
 - Looking for Pigs CodePig JS Ninjas ( please: don't eat everything )
-- Looking for [Horses](https://odicforcesounds.bandcamp.com/track/water-horses-woman-freedom) CodeHorse JS Ninjas ( Monkey Friends )
-- Looking for [Birds](https://odicforcesounds.bandcamp.com/track/birds-of-fire) CodeBird JS Ninjas ( Monkey Friends )
-- Looking for [Monkeys](https://odicforcesounds.bandcamp.com/track/eyes-on-you) (c0!)eMonkey JS Ninjas ( Monkey don't forget their own )
+- Looking for [Horses](https://art.odicforcesounds.com/pages/Data/Audio/Visions_of_Thor/tracks/02_Water_Horses_Woman_Freedom/index.html) CodeHorse JS Ninjas ( Monkey Friends )
+- Looking for [Birds](https://art.odicforcesounds.com/pages/Data/Audio/Dao_Expression/tracks/09_Birds_of_Fire/index.html) CodeBird JS Ninjas ( Monkey Friends )
+- Looking for [Monkeys](https://art.odicforcesounds.com/pages/Data/Audio/Dao_Expression/tracks/06_Eyes_On_You/index.html) (c0|)e Monkey JS Ninjas ( Monkey don't forget their own )
 
 # Monkey Gifts
 
