@@ -88,7 +88,7 @@ What else is simplicity if not a bunch of other simplicities in sequence, while 
 - Looking for [Dragons](https://art.odicforcesounds.com/pages/Data/Audio/Path_Of_Shields/tracks/25_The_Dragon/) CodeDragon JS Ninjas ( Monkey Time Warrior Friends )
 - Looking for [Wolfs](https://art.odicforcesounds.com/pages/Data/Audio/Shamanic_Quest_Dream/tracks/03_Walking_with_the_River/index.html) CodeWolf JS Ninjas ( Monkey Supporter Friends )
 - Looking for Rats CodeRat JS Ninjas ( Monkey [Time-Conditional](https://art.odicforcesounds.com/pages/YinYang/YY/index.html) Friends )
-- Looking for Serpents CodeSerpent JS Ninjas ( Monkey Secret Friends )
+- Looking for [Serpents](https://art.odicforcesounds.com/pages/Data/Audio/Dao_Expression/tracks/02_Awakening_Dreams/index.html) CodeSerpent JS Ninjas ( Monkey Secret Friends )
 - Looking for Pigs CodePig JS Ninjas ( please: don't eat everything )
 - Looking for [Horses](https://art.odicforcesounds.com/pages/Data/Audio/Visions_of_Thor/tracks/02_Water_Horses_Woman_Freedom/index.html) CodeHorse JS Ninjas ( Monkey Friends )
 - Looking for [Birds](https://art.odicforcesounds.com/pages/Data/Audio/Dao_Expression/tracks/09_Birds_of_Fire/index.html) CodeBird JS Ninjas ( Monkey Friends )
