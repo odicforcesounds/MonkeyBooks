@@ -86,7 +86,7 @@ What else is simplicity if not a bunch of other simplicities in sequence, while 
 - Looking for Cats [Boom](https://art.odicforcesounds.com/pages/YinYang/BoomCat/index.html) CodeCat JS Ninjas ( Monkey always care about them )
 - Looking for Dogs CodeDog JS Ninjas ( Monkey always care about them )
 - Looking for [Dragons](https://art.odicforcesounds.com/pages/Data/Audio/Path_Of_Shields/tracks/25_The_Dragon/) CodeDragon JS Ninjas ( Monkey Time Warrior Friends )
-- Looking for [Wolfs](https://odicforcesounds.bandcamp.com/track/walking-with-the-river) CodeWolf JS Ninjas ( Monkey Supporter Friends )
+- Looking for [Wolfs](https://art.odicforcesounds.com/pages/Data/Audio/Shamanic_Quest_Dream/tracks/03_Walking_with_the_River/index.html) CodeWolf JS Ninjas ( Monkey Supporter Friends )
 - Looking for Rats CodeRat JS Ninjas ( Monkey [Time-Conditional](https://art.odicforcesounds.com/pages/YinYang/YY/index.html) Friends )
 - Looking for Serpents CodeSerpent JS Ninjas ( Monkey Secret Friends )
 - Looking for Pigs CodePig JS Ninjas ( please: don't eat everything )
@@ -97,10 +97,10 @@ What else is simplicity if not a bunch of other simplicities in sequence, while 
 # Monkey Gifts
 
 - All Content is **free** to Download (Spread Monkey Spread)
-- You are **free** to ignore Monkey Will of [Power](https://odicforcesounds.bandcamp.com/track/money-is-no-power) ( Monkey can be Mad )
+- You are **free** to ignore Monkey Will of [Power](https://art.odicforcesounds.com/pages/Data/Audio/Path_Of_Shields/tracks/04_Money_is_no_Power/index.html)) ( Monkey can be Mad )
 - You are **not free** from excluding yourself from Monkey License!
 - You should **not** deny to help Monkey **Shamanic Quest Dream**
 
-[It all About Us](https://odicforcesounds.bandcamp.com/track/it-is-all-about-us)
+[It all About Us](https://art.odicforcesounds.com/pages/Data/Audio/Shamanic_Quest_Dream/tracks/08_Its_all_about_us/index.html)
 
 Solipsism is a false Philosophic theory, but we all live in that condition!
