@@ -1,5 +1,5 @@
 # Welcome
-We Will Try to keep things as [Simple](https://soundcloud.com/odicforcesounds_signals_of_time/gift-simplicity) as Possible
+We Will Try to keep things as [Simple](gift-simplicity) as Possible
 
 ## Slogan
 If Time is built within Our Self's, then Time is Our Self's, as result of Time it Self
@@ -11,11 +11,11 @@ If Time is built within Our Self's, then Time is Our Self's, as result of Time i
 - No Chat 
 
 ## What this application challenge aims to be?
-- More than anything, this challenge is a [out-of-the-box](https://wiki.odicforcesounds.com/docs/en/Tao/Fragments/OdicPoints/) action challenge.
-- Read more Questions about this challenge development [here](https://wiki.odicforcesounds.com/docs/plan/Questions.html)
+- More than anything, this challenge is a [out-of-the-box](OdicPoints) action challenge.
+- Read more Questions about this challenge development [here](plan/Questions)
 
 ## This Challenge Targets: 
-- All [Governments](https://wiki.odicforcesounds.com/docs/en/Tao/Fragments/Concerns/HR.html) in the world
+- All [Governments](Concerns) in the world
 - All Public Brands of the World
 - All Private Brands of the World
 
@@ -23,32 +23,17 @@ If Time is built within Our Self's, then Time is Our Self's, as result of Time i
 - You are Free to invite more people to participate in coding with us. 
 - You are Free to talk about this project to everyone in the world.
 - You are Free to search for people who wish to make an investment to this project.
-- You are Free to share all extra content of this project ( Images / [audio](https://odicforcesounds.bandcamp.com/) / texts ) .for **Free**
-- You are not Free to exclude Your self from this [Eternal License](https://wiki.odicforcesounds.com/art/pages/License/index.html)
-
-## Main Discussion: Coding - 2020 
-[Dive into the World of JavaScript](https://odicforcesounds.bandcamp.com/track/dive-into-the-world-of-javascript)
-- The Best Free Testing proposes Project to handle databases is [Firebase](https://firebase.google.com/)
-- You already have experience with JavaScript.
-- We have different options, all of them good. 
-1. We write in **JavaScript**
-2. We write in **[Typescript](https://www.typescriptlang.org/)**
-3. We use a Framework like **[VueJS](https://vuejs.org/)** or **[Angular](https://angular.io/)** where both can use **ES6** or **TypeScript**
-4. Since we wish to target all devices, some extra frameworks can he handle, as Ionic. 
-5. While **[Ionic](https://ionicframework.com/)** framework and many others can produce content for **Android** and **iOS**, we may care to develop a specific platform application using Java. 
-6. For each Social Media, if user is logged by **[Google](https://accounts.google.com/Login)** accounts or **[Facebook](https://www.facebook.com/login/device-based/regular/login/?login_attempt=1&)** accounts, users need to login using [Android](https://www.android.com/) or [iOS](https://www.apple.com/ios/ios-13/). ( We start testing using only a Webapp for PC browser (e.g. [Google Chromium](https://www.google.com/chrome/) ) 
-7. Care! Firebase works with NoSQL and NodeJS. Naturally we write both: front end and backend JavaScript Applications
-
-- Thinking this Application, as a functional application, we don't need a Awesome Interface for users, but if all principles of this application grow, we should care to put things beautiful and nice. 
+- You are Free to share all extra content of this project ( Images / [audio]() / texts ).
+- You are not Free to exclude Your self from this [Eternal License](./letters/Eternal_License.md)
 
 ## The functional condition of players is always the same: 
 1. Do Action: (when action is done, user jump to rate actions(videos))
 2. Rate Actions (each use need to rate (lets say: 7 videos, then user can do another action)
 
-## Player [Menus](https://wiki.odicforcesounds.com/docs/en/Tao/Fragments/UserInterface/)
+## Player [Menus](UserInterface/)
 1. <button>Do Action</button> 
 2. <button>Rate Action</button>
-3. [ShortPathName](https://wiki.odicforcesounds.com/docs/en/Tao/Fragments/Path/) e.g. NCP (Nature Care Path) : Value e.g. [0] - Result: **NPC** [0000] 
+3. [ShortPathName](Path/) e.g. NCP (Nature Care Path) : Value e.g. [0] - Result: **NPC** [0000] 
 4. Rating Menu (activated in the end of video) 
 - <button>0</button> (deny) 
 - <button>1</button> (approve)
@@ -61,7 +46,7 @@ Note: If this application grows...
 - Users Actions Challenge Rate / Status. (number of actions per Path) 
 
 ## Sensible Data and Storing 
-1. [Company_name](https://wiki.odicforcesounds.com/docs/en/Tao/Fragments/BrandsInterface/).
+1. [Company_name](BrandsInterface/).
 2. Number of Employees
 3. Employee Email
 4. Points / Coins
