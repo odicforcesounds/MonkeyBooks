@@ -18,7 +18,7 @@ Life is Only a [Dream](https://art.odicforcesounds.com/pages/Data/Audio/Galactic
 
 # [Metal Monkey](https://art.odicforcesounds.com/pages/Data/Audio/Shamanic_Quest_Dream/tracks/09_Wood_Fire/index.html) (1)
 
-- Which means: 1 + 1 = 1 OR 3 ( [Tao / Dao](https://art.odicforcesounds.com/pages/YinYang/Dao/index.html) ) ( c2 )
+- Which means: 1 + 1 = 1 OR 3 ( [道](https://art.odicforcesounds.com/pages/YinYang/Dao/index.html) ) ( c2 )
 
 - [Monkey Thoughts](./textos/README.md): **If Time is built within Our Self's, then Time is Our Self's, as result of Time it Self!**
 
