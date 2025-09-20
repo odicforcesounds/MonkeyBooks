@@ -1,48 +1,54 @@
 html {
   padding: 0%;
-  margin: 2%; 
+  margin:0%;
+/*  background-image: url(./img/bg.jpg);*/
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  min-width: 100%;
+  min-height: 100%;
+  position: absolute;
 }
 
 body {
-  color: white; 
-  background-color: #000009;
-  text-align: center;
-  bottom: 0px;
-  left: 0px;
-  right: 0px;
-  margin-bottom: 0px;
-  text-decoration: none;
-  display: flex;
-  flex-direction: column;
 }
 
 body h1 {
   text-align: center;
   font-size: 32;
   display: block;
+  color:black;
+  background-color: aliceblue;
 }
 
 body h2 {
   text-align: center;
   font-size: 32;
   display: block;
+  color:black;
+  background-color: aliceblue;
 }
 
 body h3 {
   text-align: center;
   font-size: 32;
   display: block;
+  color:black;
+  background-color: aliceblue;
 }
 
 body ul {
   display: block; 
   text-justify: auto;
+  color:black;
+  background-color: aliceblue;
   padding-left: 1em;
 }
 
 body a {
   text-decoration: none;
   list-style: none;
+  background-color: aliceblue;
   color: gray; 
   text-decoration-style: none;
   text-decoration-line: none;
@@ -51,18 +57,21 @@ body a {
 
 body li {
   display: flex;
-  line-break: strict;
+  color:black;
+  background-color: aliceblue;
   font-size: 22px;
 }
 
 body p {
   font-size: 20px;
   text-align: center;
+  color:black;
+  background-color: aliceblue;
 }
 
 .main {
   text-align: center;
-  display: inline-block;
+  display: block;
   break-inside: auto;
 }
 
@@ -71,8 +80,6 @@ body p {
 }
 
 .title1 {
-  display: inline;
-  line-break: strict;
   color: darkblue;
   font-size: 33px;
   display: block;
@@ -85,7 +92,6 @@ body p {
 }
 
 .title2 {
-  line-break: strict;
   display: block;
   color: darkblue;
   font-size: 33px;
@@ -93,7 +99,6 @@ body p {
 
 .title3 {
   display: block;
-  line-break: strict;
   color: darkblue;
   font-size: 33px;
 }
@@ -102,7 +107,6 @@ body p {
 
 .title4 {
   display: block ;
-  line-break: strict;
   color: white;
   font-size: 33px;
 }
@@ -115,7 +119,7 @@ body p {
 
 .bPostItem {
   text-align: center;
-  display: inline-block;
+  display: block;
   padding-top: 2rem;
 }
 
