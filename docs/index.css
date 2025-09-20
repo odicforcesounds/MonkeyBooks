@@ -1,0 +1,168 @@
+html {
+  padding: 0%;
+  margin: 2%; 
+}
+
+body {
+  color: white; 
+  background-color: #000009;
+  text-align: center;
+  bottom: 0px;
+  left: 0px;
+  right: 0px;
+  margin-bottom: 0px;
+  text-decoration: none;
+  display: flex;
+  flex-direction: column;
+}
+
+body h1 {
+  text-align: center;
+  font-size: 32;
+  display: block;
+}
+
+body h2 {
+  text-align: center;
+  font-size: 32;
+  display: block;
+}
+
+body h3 {
+  text-align: center;
+  font-size: 32;
+  display: block;
+}
+
+body ul {
+  display: block; 
+  text-justify: auto;
+  padding-left: 1em;
+}
+
+body a {
+  text-decoration: none;
+  list-style: none;
+  color: gray; 
+  text-decoration-style: none;
+  text-decoration-line: none;
+  font-size: 23px;
+}
+
+body li {
+  display: flex;
+  line-break: strict;
+  font-size: 22px;
+}
+
+body p {
+  font-size: 20px;
+  text-align: center;
+}
+
+.main {
+  text-align: center;
+  display: inline-block;
+  break-inside: auto;
+}
+
+.center{
+  text-align: center;
+}
+
+.title1 {
+  display: inline;
+  line-break: strict;
+  color: darkblue;
+  font-size: 33px;
+  display: block;
+}
+
+.title1 li {
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+  display: block;
+}
+
+.title2 {
+  line-break: strict;
+  display: block;
+  color: darkblue;
+  font-size: 33px;
+}
+
+.title3 {
+  display: block;
+  line-break: strict;
+  color: darkblue;
+  font-size: 33px;
+}
+
+    
+
+.title4 {
+  display: block ;
+  line-break: strict;
+  color: white;
+  font-size: 33px;
+}
+
+.itemList {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+} 
+
+.bPostItem {
+  text-align: center;
+  display: inline-block;
+  padding-top: 2rem;
+}
+
+.link {
+  text-decoration: none;
+  list-style: none;
+}  
+
+.textbox {
+  text-align: center;
+}
+
+footer{
+  text-align: center;
+  bottom: 0px;
+  left: 0px;
+  right: 0px;
+  margin-bottom: 0px;
+  text-decoration: none;
+  display: flex;
+  flex-direction: column;
+}
+
+footer p{
+  font-size: 16px;
+}
+
+footer a{
+  font-size: 16px;
+}
+
+.sourceCode {
+  text-align: left;
+  display: block;
+  line-break: auto;
+}
+.logic {
+  display: block;
+}
+
+.logicThought{
+  background-color: white;
+  color:black;
+  text-align: justify;
+}
+
+.logicThought p{
+  color: black;
+}
+
