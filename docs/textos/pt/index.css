@@ -1,0 +1,28 @@
+html {
+  padding:0;
+  margin:0;
+}
+
+body {
+  margin:2rem;
+  padding:1rem;
+}
+
+p {
+  font-size: 32px;
+  text-align: justify;
+}
+
+.title {
+  text-align: center;
+}
+
+.textbox {
+  text-align: justify;
+}
+
+footer {
+  text-align: center;
+}
+
+
