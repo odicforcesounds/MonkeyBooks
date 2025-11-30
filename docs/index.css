@@ -12,7 +12,6 @@ body h1 {
   font-size: 32;
   display: block;
   color:black;
-  background-color: aliceblue;
 }
 
 body h2 {
@@ -20,7 +19,6 @@ body h2 {
   font-size: 32;
   display: block;
   color:black;
-  background-color: aliceblue;
 }
 
 body h3 {
@@ -28,21 +26,18 @@ body h3 {
   font-size: 32;
   display: block;
   color:black;
-  background-color: aliceblue;
 }
 
 body ul {
   display: block; 
   text-justify: auto;
   color:black;
-  background-color: aliceblue;
   padding-left: 1em;
 }
 
 body a {
   text-decoration: none;
   list-style: none;
-  background-color: aliceblue;
   color: gray; 
   text-decoration-style: none;
   text-decoration-line: none;
@@ -52,7 +47,6 @@ body a {
 body li {
   display: flex;
   color:black;
-  background-color: aliceblue;
   font-size: 22px;
 }
 
@@ -60,7 +54,6 @@ body p {
   font-size: 20px;
   text-align: center;
   color:black;
-  background-color: aliceblue;
 }
 
 .main {
