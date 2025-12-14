@@ -1,0 +1,36 @@
+html {
+  margin:0;
+  padding:0;
+}
+
+body {
+  text-align: center;
+}
+
+a {
+  text-decoration: none;
+}
+
+.textbox {
+  margin: 2.5%;
+}
+
+.textbox h1 {
+  text-align: center;
+}
+
+.textbox p {
+  text-align: justify;
+}
+
+footer {
+  text-align: center;
+  position: fixed;
+  bottom: 0px;
+  left: 0px;
+  right: 0px;
+  margin-bottom: 0px;
+  text-decoration: none;
+  display: flex;
+  flex-direction: column;
+}
